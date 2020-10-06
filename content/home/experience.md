@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Professional Background"
 subtitle = ""
 
 # Date format for experience
@@ -18,27 +18,39 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Post-Doctoral Associate"
+  company = "Mississippi State University, Folk Lab"
+  company_url = "http://www.ryanafolk.com"
+  location = " Mississippi State, MS, USA"
+  date_start = "2020-01-01"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = """Studying macroevolution of the nitrogen fixing symbiosis in flowering plants."""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Research Associate"
+  company = "University of Memphis, Mandel Lab"
+  company_url = "http://mandel-lab.org/"
+  location = "Memphis, TN, USA"
+  date_start = "2018-09-01"
+  date_end = "2019-12-31"
+  description = """Studied whole genome duplications in the sunflower family."""
+
+[[experience]]
+  title = "Doctorate student"
+  company = "Universidade de São Paulo"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "São Paulo, SP, Brazil"
+  date_start = "2014-01-01"
+  date_end = "2018-04-01"
+  description = """Studied the systematics and evolution of the genus _Chresta_ (tribe Vernonieae, family Asteraceae), using phylogenomics and population genetics methods."""
+
+[[experience]]
+  title = "Master's student"
+  company = "Universidade de São Paulo"
+  company_url = ""
+  location = "São Paulo, SP, Brazil"
+  date_start = "2010-09-01"
+  date_end = "2012-09-01"
+  description = """Studied Leguminosae floristics at Serra do Cipó, Minas Gerais, Brazil."""
 
 +++
