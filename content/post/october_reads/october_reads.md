@@ -1,7 +1,7 @@
 ---
 title: 'October reads!'
 date: '2020-10-31'
-summary: 'what I've been reading lately'
+summary: 'what I've been reading lately.'
 ---
 
 Hey  y’all! A quick summary of what I’ve read this month. Busy times, with little reading, but there were some good papers!
